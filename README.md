@@ -1,6 +1,6 @@
-<img src="images/photo.jpg" width="140" align="right" alt="Iryna Brusniak">
-
 # Iryna Brusniak
+
+<img src="images/photo.jpg" width="140" align="right" alt="Iryna Brusniak">
 
 **Power BI Developer / Data Analyst** · Open to remote roles
 
