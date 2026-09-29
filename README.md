@@ -6,6 +6,8 @@
 
 I turn raw business data into dashboards that answer concrete questions: are we on plan, where does the money go, what drives the cost.
 
+<br clear="right">
+
 ## Projects
 | Project | What it shows | |
 |---|---|---|
