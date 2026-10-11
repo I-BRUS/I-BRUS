@@ -2,7 +2,7 @@
 
 <img src="images/photo.jpg" width="140" align="right" alt="Iryna Brusniak">
 
-**Power BI Developer / Data Analyst** · Open to remote roles
+**Business Analyst · Commercial Analytics (Pharma)** · Open to remote roles
 
 I turn raw business data into dashboards that answer concrete questions: are we on plan, where does the money go, what drives the cost.
 
@@ -23,4 +23,4 @@ I turn raw business data into dashboards that answer concrete questions: are we 
 - **Excel:** dynamic arrays, LET / LAMBDA, XLOOKUP, VBA automation
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/iryna-brusniak) · [picfloumetr@hotmail.com](mailto:picfloumetr@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/iryna-brusniak-36b80614a/) · [picfloumetr@hotmail.com](mailto:picfloumetr@hotmail.com)
