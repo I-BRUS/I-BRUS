@@ -2,10 +2,9 @@
 
 <img src="images/photo.jpg" width="140" align="right" alt="Iryna Brusniak">
 
-**Business Analyst · Commercial Analytics (Pharma)** · Open to remote roles
+**Business & Data Analytics | Power BI · Power Query · Excel** · Open to remote roles
 
-I turn raw business data into dashboards that answer concrete questions: are we on plan, where does the money go, what drives the cost.
-
+I combine business experience with data analytics to improve reporting, understand performance, and support better business decisions.
 <br clear="right">
 
 ## Projects
